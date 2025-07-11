@@ -2,9 +2,7 @@
 
 # **Chimera-1: A Blueprint for a Learning Lifecycle**
 
-Document ID: CHIMERA-BP-LL-001  
-Version: 1.0 (Final)  
-Status: Approved
+Version: 1.0 
 
 ---
 
